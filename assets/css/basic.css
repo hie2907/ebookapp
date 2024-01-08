@@ -110,6 +110,12 @@ body {
 .active-menu {
     background-color: #00CA79!important;
 }
+a:active {
+    background-color: blue;
+}
+a.menu-link:active {
+    background-color: blue;
+}
 .active-menu-top {
     background-color: #000!important;
 }

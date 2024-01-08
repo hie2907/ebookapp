@@ -9,12 +9,12 @@
 			<div role="tabpanel">
 				<div class="card">
 					<div class="card-header">
-						<h4>Add Comic</h4>
+						<h4>Add BOOK</h4>
 					</div>
 					<div class="card-body">
 						<form class="form" role="form" method="post" action="action/add_ebook.php" enctype="multipart/form-data">
 							<div class="form-group row">
-								<label class="col-lg-3 col-form-label form-control-label">Title Comic</label>
+								<label class="col-lg-3 col-form-label form-control-label">Title Book</label>
 								<div class="col-lg-9">
 									<input class="form-control" name="name">
 								</div>
